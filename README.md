@@ -40,9 +40,9 @@ Run the 'Rush N' Battle.exe' located in the folder.
 # Credits
 Rush N' Battle was developed by a team of experienced Unity developers and game designers. The following individuals contributed to the game:
 
-Raymond Do : https://github.com/RaymondDoTheCode <br>
+Raymond Do | https://github.com/RaymondDoTheCode <br>
 
-Kevin (Si Hong) Huang : https://github.com/sh8f <br>
+Kevin (Si Hong) Huang | https://github.com/sh8f <br>
 
 Peter Nguyen  <br>
 
