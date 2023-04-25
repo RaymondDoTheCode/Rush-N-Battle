@@ -32,9 +32,9 @@ Run the 'Rush N' Battle.exe' located in the folder.
 # Credits
 Rush N' Battle was developed by a team of experienced Unity developers and game designers. The following individuals contributed to the game:
 
-John Smith: Lead Developer  
-Jane Doe: Game Designer  
-James Johnson: Level Designer  
+Raymond Do
+Kevin Huang
+Peter Nguyen
 
 # Feedback and Support
 We value feedback from our players and welcome any suggestions or comments you may have. If you encounter any issues while playing Rush N' Battle or have a question, please contact us at support@rushnbattle.com. We will do our best to respond to your inquiry as soon as possible.
