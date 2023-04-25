@@ -37,6 +37,6 @@ Kevin Huang
 Peter Nguyen  
 
 # Feedback and Support
-We value feedback from our players and welcome any suggestions or comments you may have. If you encounter any issues while playing Rush N' Battle or have a question, please contact us at support@rushnbattle.com. We will do our best to respond to your inquiry as soon as possible.
+We value feedback from our players and welcome any suggestions or comments you may have. If you encounter any issues while playing Rush N' Battle or have a question, please let us know!
 
 Thank you for playing Rush N' Battle!
