@@ -30,6 +30,8 @@ Now you should be able to open the project and view the scripts and scenes used 
 
 ![InGame2](https://user-images.githubusercontent.com/100435153/234402866-c656d85b-dff6-4632-9ba7-d84e8c88b552.JPG)
 
+![InGame3](https://user-images.githubusercontent.com/100435153/234404466-4df007e6-f72b-4929-bbb4-52f574174d73.JPG)
+
 ### Executable
 Download the Rush N' Battle folder from the Github.  
 Unzip the file and place the folder anywhere on your device.  
