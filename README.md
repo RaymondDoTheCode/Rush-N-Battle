@@ -15,11 +15,15 @@ Tab: View map
 1-5: Select weapons
 
 # Installation
-To play Rush N' Battle, you will need to download and install the game on your computer. The game is available for Windows and macOS. Follow these steps to install the game:
+To play Rush N' Battle, you will need to download and install the game on your computer. The game is available for Windows. Follow these steps to install the game:
 
-Download the Rush N' Battle installer from the official website.
-Run the installer and follow the on-screen instructions.
-Launch the game from your desktop or start menu.
+## Unity
+
+
+## Executable
+Download the Rush N' Battle folder from the Github.  
+Unzip the file and place the folder anywhere on your device.  
+Run the 'Rush N' Battle.exe' located in the folder.  
 
 # Credits
 Rush N' Battle was developed by a team of experienced Unity developers and game designers. The following individuals contributed to the game:
