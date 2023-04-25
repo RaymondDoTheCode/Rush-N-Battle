@@ -16,7 +16,7 @@ Tab: Pause Game
 # Installation
 To play Rush N' Battle, you will need to download and install the game on your computer. The game is available for Windows. Follow these steps to install the game:
 
-## Unity
+### Unity
 Make sure Unity and Blendr is installed on your device.  
 Download the Unity folder from the Github.  
 Unzip the file and place the folder anywhere on your device.  
@@ -24,7 +24,7 @@ Open Unity Hub and add a new project.
 Select the Unity folder that you placed on your device.  
 Now you should be able to open the project and view the scripts and scenes used to create the game.  
 
-## Executable
+### Executable
 Download the Rush N' Battle folder from the Github.  
 Unzip the file and place the folder anywhere on your device.  
 Run the 'Rush N' Battle.exe' located in the folder.  
