@@ -26,7 +26,7 @@ Open Unity Hub and add a new project.
 Select the Unity folder that you placed on your device.  
 Now you should be able to open the project and view the scripts and scenes used to create the game.  
 
-![InGame](https://user-images.githubusercontent.com/100435153/234402844-b3de3a58-0394-495d-bf4d-b2d12dd0f4b2.JPG)
+![InGame](https://user-images.githubusercontent.com/100435153/234403277-e7fcf9a7-a0fd-405f-92ca-160c578390ec.png)
 
 ![InGame2](https://user-images.githubusercontent.com/100435153/234402866-c656d85b-dff6-4632-9ba7-d84e8c88b552.JPG)
 
