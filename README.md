@@ -44,7 +44,7 @@ Raymond Do | https://github.com/RaymondDoTheCode <br>
 
 Kevin (Si Hong) Huang | https://github.com/sh8f <br>
 
-Peter Nguyen  <br>
+Peter Nguyen | https://github.com/merkiel <br>
 
 # Feedback and Support
 We value feedback from our players and welcome any suggestions or comments you may have. If you encounter any issues while playing Rush N' Battle or have a question, please let us know!
